@@ -31,7 +31,7 @@ Guide to Python DocStrings: https://www.geeksforgeeks.org/python-docstrings/
 
 **Studying tips:**
 
-
+--
 
 **Quizzes:**
 
